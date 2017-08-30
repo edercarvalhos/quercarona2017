@@ -1,0 +1,5 @@
+Aplicativo mobile de transporte universitário para melhorar experiência dos estudantes e motoristas.
+
+Equipe:
+Eder Porto de Carvalho
+Robson Nunes Tavares

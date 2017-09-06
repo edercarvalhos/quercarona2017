@@ -8,7 +8,16 @@ foi então que olhando sua time line do facebook viu uma postagem que atraiu toda
 colocando uma ponta de esperança em seu coração que ser um universitário estaria mia sproximo do que ele imaginava.
 O post de um aplicativo de celular...
 
-Aplicativo mobile de transporte universitário para melhorar experiência dos estudantes e motoristas.
+#Cronograma
+##Setembro
+
+
+##Outubro
+
+
+##Novembro
+
+
 
 ### Equipe:
 1. Eder Porto de Carvalho

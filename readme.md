@@ -1,31 +1,35 @@
 # Quer carona
 
-Um garoto tinha o sonho de se formar na universidade, mas como morava em uma cidade pequana que n„o tinha infraestrutura para sediar um
-campus universit·rio, n„o tinha carro nem moto, isso lhe impossibilitava de conquistar o t„o sonhado diploma.
-O fato de apenas ter o sonho de se tornar um universit·rio e nenhuma informaÁ„o de como conseguir um contato ou meio de transporte
-que o levasse para uma cidade proxima que tivesse um campus universit·rio n„o estavam dando muitas esperanÁas.
-foi ent„o que olhando sua time line do facebook viu uma postagem que atraiu toda sua atenÁ„o, e que estava a partir daquele momento
-colocando uma ponta de esperanÁa em seu coraÁ„o que ser um universit·rio estaria mia sproximo do que ele imaginava.
+Um garoto tinha o sonho de se formar na universidade, mas como morava em uma cidade pequana que n√£o tinha infraestrutura para sediar um
+campus universit√°rio, n√£o tinha carro nem moto, isso lhe impossibilitava de conquistar o t√£o sonhado diploma.
+O fato de apenas ter o sonho de se tornar um universit√°rio e nenhuma informa√ß√£o de como conseguir um contato ou meio de transporte
+que o levasse para uma cidade proxima que tivesse um campus universit√°rio n√£o estavam dando muitas esperan√ßas.
+foi ent√£o que olhando sua time line do facebook viu uma postagem que atraiu toda sua aten√ß√£o, e que estava a partir daquele momento
+colocando uma ponta de esperan√ßa em seu cora√ß√£o que ser um universit√°rio estaria mia sproximo do que ele imaginava.
 O post de um aplicativo de celular...
 
-# MotivaÁ„o:
-	Sanar o problemas de v·rios alunos que passam horas e horas fazendo ligaÁıes e procurando um transporte para faculdade, visto que grande parte dos alunos das faculdades do Brasil a fora n„o moram na cidade onde a faculdade est· situada.
+# Motiva√ß√£o:
+	Sanar o problemas de v√°rios alunos que passam horas e horas fazendo liga√ß√µes e procurando um transporte para faculdade, visto que grande parte dos alunos das faculdades do Brasil a fora n√£o moram na cidade onde a faculdade est√° situada.
 
-# DescriÁ„o do Projeto:
-	ProduÁ„o de um software para ligaÁ„o entre os Donos de Frota Universit·ria e estudantes de outras cidades que encontram problemas em encontrar vagas de transporte.
-	O software ter· duas opÁıes de inscriÁ„o, sendo: estudante e dono de frota; os donos de frota far„o o registro de seus veÌculos e exibindo o n˙mero de vagas disponÌveis, enquanto os alunos ter„o uma visualizaÁ„o de todas as vagas ofertadas pelos donos de frota e podendo fechar sua vaga no transporte direto pelo software.
+# Descri√ß√£o do Projeto:
+	Produ√ß√£o de um software para liga√ß√£o entre os Donos de Frota Universit√°ria e estudantes de outras cidades que encontram problemas em encontrar vagas de transporte.
+	O software ter√° duas op√ß√µes de inscri√ß√£o, sendo: estudante e dono de frota; os donos de frota far√£o o registro de seus ve√≠culos e exibindo o n√∫mero de vagas dispon√≠veis, enquanto os alunos ter√£o uma visualiza√ß√£o de todas as vagas ofertadas pelos donos de frota e podendo fechar sua vaga no transporte direto pelo software.
 
 
 # Cronograma
 
 ## Setembro
-
+1. Sistema de login de usu√°rio
+2. Sistema de Cadastro de usu√°rio
 
 ## Outubro
-
+1. Cadastro de ve√≠culos quando usu√°rio for motorista
+2. Tela inicial com exibi√ß√£o de ve√≠culos e vagas cadastrados
 
 ## Novembro
-
+1. Permitir o estudante selecionar o transporte desejado/permitir motorista aprovar solicita√ß√£o de transporte do estudante
+2. Comunica√ß√£o entre estudante e motorista por mesangem
+3. Lista de presen√ßa di√°ria
 
 
 ### Equipe:

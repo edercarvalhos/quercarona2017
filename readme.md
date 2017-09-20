@@ -9,11 +9,16 @@ colocando uma ponta de esperança em seu coração que ser um universitário est
 O post de um aplicativo de celular...
 
 # Motivação:
-	Sanar o problemas de vários alunos que passam horas e horas fazendo ligações e procurando um transporte para faculdade, visto que grande parte dos alunos das faculdades do Brasil a fora não moram na cidade onde a faculdade está situada.
+	Sanar o problemas de vários alunos que passam horas e horas fazendo ligações e procurando um transporte para
+	faculdade, visto que grande parte dos alunos das faculdades do Brasil a fora não moram na cidade onde a 
+	faculdade está situada.
 
 # Descrição do Projeto:
-	Produção de um software para ligação entre os Donos de Frota Universitária e estudantes de outras cidades que encontram problemas em encontrar vagas de transporte.
-	O software terá duas opções de inscrição, sendo: estudante e dono de frota; os donos de frota farão o registro de seus veículos e exibindo o número de vagas disponíveis, enquanto os alunos terão uma visualização de todas as vagas ofertadas pelos donos de frota e podendo fechar sua vaga no transporte direto pelo software.
+	Produção de um software para ligação entre os Donos de Frota Universitária e estudantes de outras cidades que 
+	encontram problemas em encontrar vagas de transporte.
+	O software terá duas opções de inscrição, sendo: estudante e dono de frota; os donos de frota farão o registro
+	de seus veículos e exibindo o número de vagas disponíveis, enquanto os alunos terão uma visualização de todas
+	as vagas ofertadas pelos donos de frota e podendo fechar sua vaga no transporte direto pelo software.
 
 
 # Cronograma

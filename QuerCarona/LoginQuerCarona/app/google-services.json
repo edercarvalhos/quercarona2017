@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "776641466460",
+    "firebase_url": "https://quercarona-318c4.firebaseio.com",
+    "project_id": "quercarona-318c4",
+    "storage_bucket": "quercarona-318c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776641466460:android:026a5eb8c7dc36fa",
+        "android_client_info": {
+          "package_name": "quer.carona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776641466460-m5v1eo3hksefcv72ic6fb0kmmdfvphgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wfJW8tiPf07CnBfElWMIaIpSlkiWhSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776641466460:android:7ee0902127ba58df",
+        "android_client_info": {
+          "package_name": "appquercarona.loginquercarona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776641466460-jq3ouv8jbs99s7mgg26rtiab1139u4el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appquercarona.loginquercarona",
+            "certificate_hash": "4f3ebf3a9f1dbfcc05fb21c2f4d304a94390c99e"
+          }
+        },
+        {
+          "client_id": "776641466460-m5v1eo3hksefcv72ic6fb0kmmdfvphgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wfJW8tiPf07CnBfElWMIaIpSlkiWhSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776641466460-m5v1eo3hksefcv72ic6fb0kmmdfvphgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
